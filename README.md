@@ -1,6 +1,6 @@
 # Mongo Query Samples
 
-Mongo query experiments using the console the console.
+Mongo query experiments with advanced scripting using the Mongo shell.
 
 These queries assume you're setting the database via command line parameters.  See `mongo --help` for details.
 
